@@ -1,0 +1,450 @@
+2017-10-26 19:00:07,779 [main] INFO  (com.automation.test.KCARE_Home:36:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 13:50:25,396 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 13:50:34,313 [main] INFO  (com.automation.test.IFRS_Role_Screen:69:select_role_from_unassigned_user) - User is already assigned to Manager role
+2017-10-27 15:23:55,986 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 15:23:57,173 [main] INFO  (com.automation.test.IFRS_Role_Screen:52:select_role_from_unassigned_user) - User is already assigned to Manager role
+2017-10-27 15:24:57,611 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 15:25:06,702 [main] INFO  (com.automation.test.IFRS_Role_Screen:69:select_role_from_unassigned_user) - User is already assigned to Manager role
+2017-10-27 15:38:17,836 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 16:05:17,346 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 16:06:32,050 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 17:05:22,420 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:04:21,785 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:32:30,605 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:33:31,780 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:35:09,198 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:37:49,047 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:40:24,832 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:42:48,184 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:42:49,703 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Status) is accurately chceked in application
+2017-10-27 19:42:50,777 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Number) is accurately chceked in application
+2017-10-27 19:42:51,850 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Name) is accurately chceked in application
+2017-10-27 19:42:52,926 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Client) is accurately chceked in application
+2017-10-27 19:42:53,997 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Created by) is accurately chceked in application
+2017-10-27 19:42:55,070 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Modified) is accurately chceked in application
+2017-10-27 19:42:56,143 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Pending Approval by) is accurately chceked in application
+2017-10-27 19:42:57,222 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Team) is accurately chceked in application
+2017-10-27 19:49:31,129 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:49:32,625 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Status) is accurately chceked in application
+2017-10-27 19:49:33,716 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Number) is accurately chceked in application
+2017-10-27 19:49:34,806 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Name) is accurately chceked in application
+2017-10-27 19:49:35,878 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Client) is accurately chceked in application
+2017-10-27 19:49:36,966 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Created by) is accurately chceked in application
+2017-10-27 19:49:38,059 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Modified) is accurately chceked in application
+2017-10-27 19:49:39,131 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Pending Approval by) is accurately chceked in application
+2017-10-27 19:49:40,206 [main] INFO  (com.automation.test.IFRS_Dashboard:54:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Team) is accurately chceked in application
+2017-10-27 19:53:23,189 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:53:23,860 [main] INFO  (com.automation.test.IFRS_Role_Screen:51:assign_role_from_unassigned_user) - User is already assigned to Manager role
+2017-10-27 19:53:48,952 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:54:53,877 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:55:43,798 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:56:41,105 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:59:17,583 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 19:59:21,960 [main] INFO  (com.automation.test.IFRS_Role_Screen:87:assign_role_from_unassigned_user) - User is already assigned to Manager role
+2017-10-27 20:00:09,615 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 20:00:12,745 [main] INFO  (com.automation.test.IFRS_Role_Screen:87:assign_role_from_unassigned_user) - User is already assigned to Manager role
+2017-10-27 20:00:39,441 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 20:02:33,612 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 20:02:41,877 [main] INFO  (com.automation.test.IFRS_Role_Screen:71:assign_role_from_unassigned_user) - User is already assigned to Manager role
+2017-10-27 20:03:06,323 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 20:09:35,696 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 20:09:43,476 [main] INFO  (com.automation.test.IFRS_Role_Screen:73:assign_role_from_unassigned_user) - User is already assigned to Partner role
+2017-10-27 20:11:58,989 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 20:12:06,588 [main] INFO  (com.automation.test.IFRS_Role_Screen:73:assign_role_from_unassigned_user) - User is already assigned to Manager role
+2017-10-27 20:48:51,966 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 20:53:26,946 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-27 20:53:28,115 [main] INFO  (com.automation.test.IFRS_Dashboard:76:verify_that_Sorting_functionality_is_working_fine_for_column) - [1088816, 1083847, 1080737, 1078077, 1076904, 1071831, 1063265, 1063171, 1060013, 1054672, 1044564, 1037436, 1035952, 1035106, 1030509, 1026201, 1025939, 1024376, 1007989, 1001268]
+2017-10-30 17:04:57,751 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-30 17:04:58,432 [main] INFO  (com.automation.test.IFRS_Dashboard:76:verify_that_Sorting_functionality_is_working_fine_for_column) - [1002, 1001]
+2017-10-30 17:09:27,799 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-30 17:09:28,580 [main] INFO  (com.automation.test.IFRS_Dashboard:76:verify_that_Sorting_functionality_is_working_fine_for_column) - [1002, 1001]
+2017-10-30 17:12:10,465 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-30 17:12:11,161 [main] INFO  (com.automation.test.IFRS_Dashboard:76:verify_that_Sorting_functionality_is_working_fine_for_column) - [1002, 1001]
+2017-10-30 17:12:42,173 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-30 17:12:42,865 [main] INFO  (com.automation.test.IFRS_Dashboard:76:verify_that_Sorting_functionality_is_working_fine_for_column) - [1002, 1001]
+2017-10-30 17:12:43,591 [main] INFO  (com.automation.test.IFRS_Dashboard:76:verify_that_Sorting_functionality_is_working_fine_for_column) - [Audit 2016, Audit 2017]
+2017-10-30 17:17:03,484 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-30 17:17:06,990 [main] INFO  (com.automation.test.IFRS_Dashboard:78:verify_that_Sorting_functionality_is_working_fine_for_column) - [1002, 1001]
+2017-10-30 17:17:09,789 [main] INFO  (com.automation.test.IFRS_Dashboard:78:verify_that_Sorting_functionality_is_working_fine_for_column) - [Audit 2016, Audit 2017]
+2017-10-30 17:18:12,043 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-10-30 17:18:15,698 [main] INFO  (com.automation.test.IFRS_Dashboard:78:verify_that_Sorting_functionality_is_working_fine_for_column) - [1002, 1001]
+2017-10-30 17:18:18,584 [main] INFO  (com.automation.test.IFRS_Dashboard:78:verify_that_Sorting_functionality_is_working_fine_for_column) - [Audit 2016, Audit 2017]
+2017-11-09 08:07:10,504 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 08:08:18,264 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 08:09:32,018 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 08:12:54,644 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 08:22:37,764 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 08:24:14,610 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 08:26:24,509 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 08:38:13,151 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 08:41:22,206 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 08:42:22,360 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 08:49:32,580 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 09:45:26,243 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 09:54:28,446 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 09:55:54,727 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 09:58:28,566 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 09:59:04,333 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 10:08:36,960 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-09 10:29:28,763 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 03:19:54,476 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 03:21:33,075 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 04:35:53,801 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 04:35:57,806 [main] INFO  (com.automation.test.IFRS_Role_Screen:92:assign_role_from_unassigned_user) - User is already assigned to Manager role
+2017-11-14 05:14:29,461 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 05:16:07,912 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 05:16:11,905 [main] INFO  (com.automation.test.IFRS_Role_Screen:92:assign_role_from_unassigned_user) - User is already assigned to Manager role
+2017-11-14 05:17:17,895 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 05:28:14,724 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 05:32:46,266 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 05:42:09,784 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 05:53:42,268 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 05:55:39,201 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 05:55:41,802 [main] INFO  (com.automation.test.IFRS_Dashboard:83:verify_that_Sorting_functionality_is_working_fine_for_column) - []
+2017-11-14 05:57:14,743 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 05:57:17,384 [main] INFO  (com.automation.test.IFRS_Dashboard:83:verify_that_Sorting_functionality_is_working_fine_for_column) - []
+2017-11-14 05:59:38,275 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 05:59:40,995 [main] INFO  (com.automation.test.IFRS_Dashboard:83:verify_that_Sorting_functionality_is_working_fine_for_column) - []
+2017-11-14 06:00:24,884 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 06:00:27,473 [main] INFO  (com.automation.test.IFRS_Dashboard:83:verify_that_Sorting_functionality_is_working_fine_for_column) - []
+2017-11-14 06:01:18,130 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 06:01:20,706 [main] INFO  (com.automation.test.IFRS_Dashboard:83:verify_that_Sorting_functionality_is_working_fine_for_column) - []
+2017-11-14 06:03:55,475 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 06:04:00,452 [main] INFO  (com.automation.test.IFRS_Dashboard:84:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-14 06:04:32,143 [main] INFO  (com.automation.test.IFRS_Dashboard:84:verify_that_Sorting_functionality_is_working_fine_for_column) - [Audit 2016, Audit 2017, Audit 2017, Audit 2017, Bar 2015, Bar 2017, Foo 2014, Foo 2017, IT Review 2017, IT Review 2017]
+2017-11-14 06:05:38,364 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 06:05:43,272 [main] INFO  (com.automation.test.IFRS_Dashboard:84:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-14 06:05:48,612 [main] INFO  (com.automation.test.IFRS_Dashboard:84:verify_that_Sorting_functionality_is_working_fine_for_column) - [Audit 2016, Audit 2017, Audit 2017, Audit 2017, Bar 2015, Bar 2017, Foo 2014, Foo 2017, IT Review 2017, IT Review 2017]
+2017-11-14 06:07:19,506 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 06:07:24,567 [main] INFO  (com.automation.test.IFRS_Dashboard:84:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-14 06:09:46,081 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 06:09:51,115 [main] INFO  (com.automation.test.IFRS_Dashboard:84:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-14 06:14:10,143 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 06:14:15,126 [main] INFO  (com.automation.test.IFRS_Dashboard:84:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-14 06:21:22,268 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 06:21:27,167 [main] INFO  (com.automation.test.IFRS_Dashboard:84:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-14 06:22:31,014 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 06:22:35,943 [main] INFO  (com.automation.test.IFRS_Dashboard:84:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-14 06:26:03,800 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 06:26:08,717 [main] INFO  (com.automation.test.IFRS_Dashboard:84:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-14 06:29:56,694 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 06:30:01,708 [main] INFO  (com.automation.test.IFRS_Dashboard:84:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-14 06:34:08,211 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 06:34:13,114 [main] INFO  (com.automation.test.IFRS_Dashboard:84:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-14 08:55:25,724 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 08:55:30,717 [main] INFO  (com.automation.test.IFRS_Dashboard:91:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1002, 1001]
+2017-11-14 08:59:06,606 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 08:59:11,516 [main] INFO  (com.automation.test.IFRS_Dashboard:91:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1002, 1001]
+2017-11-14 09:03:28,733 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 09:03:33,812 [main] INFO  (com.automation.test.IFRS_Dashboard:91:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1002, 1001]
+2017-11-14 09:05:04,596 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 09:05:09,503 [main] INFO  (com.automation.test.IFRS_Dashboard:91:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1002, 1001]
+2017-11-14 09:17:04,908 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 09:17:09,844 [main] INFO  (com.automation.test.IFRS_Dashboard:91:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1002, 1001]
+2017-11-14 09:46:29,315 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 09:46:34,363 [main] INFO  (com.automation.test.IFRS_Dashboard:87:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1002, 1001]
+2017-11-14 10:07:54,060 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 10:07:59,032 [main] INFO  (com.automation.test.IFRS_Dashboard:87:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1002, 1001]
+2017-11-14 10:12:39,486 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 10:12:44,436 [main] INFO  (com.automation.test.IFRS_Dashboard:87:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1002, 1001]
+2017-11-14 10:15:03,397 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-14 10:15:08,324 [main] INFO  (com.automation.test.IFRS_Dashboard:87:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1002, 1001]
+2017-11-15 05:07:26,950 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 05:07:32,119 [main] INFO  (com.automation.test.IFRS_Dashboard:87:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-15 05:09:40,833 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 05:09:45,881 [main] INFO  (com.automation.test.IFRS_Dashboard:87:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-15 05:10:36,299 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 05:10:41,248 [main] INFO  (com.automation.test.IFRS_Dashboard:87:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-15 05:23:18,453 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 05:23:23,363 [main] INFO  (com.automation.test.IFRS_Dashboard:87:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-15 05:43:24,358 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 05:43:29,499 [main] INFO  (com.automation.test.IFRS_Dashboard:87:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-15 06:59:52,897 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 06:59:54,427 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Status) is accurately chceked in application
+2017-11-15 06:59:55,511 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Number) is accurately chceked in application
+2017-11-15 06:59:56,594 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Name) is accurately chceked in application
+2017-11-15 06:59:57,681 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Client) is accurately chceked in application
+2017-11-15 06:59:58,771 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Created by) is accurately chceked in application
+2017-11-15 06:59:59,849 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Modified) is accurately chceked in application
+2017-11-15 07:00:00,937 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Pending Approval by) is accurately chceked in application
+2017-11-15 07:00:02,027 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Team) is accurately chceked in application
+2017-11-15 07:02:10,547 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 07:02:12,069 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Status) is accurately chceked in application
+2017-11-15 07:02:13,166 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Number) is accurately chceked in application
+2017-11-15 07:02:14,257 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Name) is accurately chceked in application
+2017-11-15 07:02:15,348 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Client) is accurately chceked in application
+2017-11-15 07:02:16,433 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Created by) is accurately chceked in application
+2017-11-15 07:02:17,515 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Modified) is accurately chceked in application
+2017-11-15 07:02:18,606 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Pending Approval by) is accurately chceked in application
+2017-11-15 07:02:19,689 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Team) is accurately chceked in application
+2017-11-15 07:03:56,146 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 07:03:57,618 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Status) is accurately chceked in application
+2017-11-15 07:03:58,702 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Number) is accurately chceked in application
+2017-11-15 07:03:59,788 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Name) is accurately chceked in application
+2017-11-15 07:04:00,878 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Client) is accurately chceked in application
+2017-11-15 07:04:01,962 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Created by) is accurately chceked in application
+2017-11-15 07:04:03,044 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Modified) is accurately chceked in application
+2017-11-15 07:04:04,131 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Pending Approval by) is accurately chceked in application
+2017-11-15 07:04:05,216 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Team) is accurately chceked in application
+2017-11-15 07:06:57,940 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 07:06:59,460 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Status) is accurately chceked in application
+2017-11-15 07:07:00,546 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Number) is accurately chceked in application
+2017-11-15 07:07:01,636 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Name) is accurately chceked in application
+2017-11-15 07:07:02,721 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Client) is accurately chceked in application
+2017-11-15 07:07:03,803 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Created by) is accurately chceked in application
+2017-11-15 07:07:04,894 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Modified) is accurately chceked in application
+2017-11-15 07:07:05,982 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Pending Approval by) is accurately chceked in application
+2017-11-15 07:07:07,072 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Team) is accurately chceked in application
+2017-11-15 07:10:09,642 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 07:10:14,682 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-15 07:11:21,188 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 07:11:26,200 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-15 07:13:05,724 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 07:13:10,929 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-15 07:17:05,754 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 07:17:10,846 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-15 07:32:49,013 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 07:33:17,410 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 07:33:18,862 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Status) is accurately chceked in application
+2017-11-15 07:33:19,952 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Number) is accurately chceked in application
+2017-11-15 07:33:21,052 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Name) is accurately chceked in application
+2017-11-15 07:33:22,148 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Client) is accurately chceked in application
+2017-11-15 07:33:23,247 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Created by) is accurately chceked in application
+2017-11-15 07:33:24,338 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Modified) is accurately chceked in application
+2017-11-15 07:33:25,429 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Pending Approval by) is accurately chceked in application
+2017-11-15 07:33:26,551 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Team) is accurately chceked in application
+2017-11-15 07:33:42,544 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 07:33:47,597 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-15 07:33:53,080 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [Audit 2016, Audit 2017, Audit 2017, Audit 2017, Bar 2015, Bar 2017, Foo 2014, Foo 2017, IT Review 2017, IT Review 2017]
+2017-11-15 07:34:08,518 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 07:34:13,499 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1025, 1022, 1021, 1013, 1013, 1002, 1002, 1002, 1001]
+2017-11-15 07:40:34,477 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 07:40:35,169 [main] INFO  (com.automation.test.IFRS_Role_Screen:53:assign_role_for_unassigned_user) - User is already assigned to Manager role
+2017-11-15 07:43:07,416 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:09:59,243 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:11:52,880 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:15:03,582 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:16:11,406 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:18:14,891 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:19:39,692 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:20:30,219 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:25:08,249 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:25:12,281 [main] INFO  (com.automation.test.IFRS_Role_Screen:148:assign_role_for_unassigned_user) - User is already assigned to Partner role
+2017-11-15 08:25:57,957 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:26:05,611 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_unassigned_user) - User is already assigned to Manager role
+2017-11-15 08:27:44,669 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:28:11,441 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:28:13,208 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Status) is accurately chceked in application
+2017-11-15 08:28:14,585 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Number) is accurately chceked in application
+2017-11-15 08:28:15,975 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Engagement Name) is accurately chceked in application
+2017-11-15 08:28:17,395 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Client) is accurately chceked in application
+2017-11-15 08:28:18,777 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Created by) is accurately chceked in application
+2017-11-15 08:28:20,168 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Modified) is accurately chceked in application
+2017-11-15 08:28:21,547 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Pending Approval by) is accurately chceked in application
+2017-11-15 08:28:22,931 [main] INFO  (com.automation.test.IFRS_Dashboard:64:verify_that_following_column_is_displayed_Workpaper_table) - Column name (Team) is accurately chceked in application
+2017-11-15 08:28:34,172 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:28:43,001 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [3000, 2012, 2012, 2012, 2002, 2002, 1025, 1024, 1022, 1021, 1013, 1013, 1013, 1002, 1002, 1002, 1001, 1001, 1001]
+2017-11-15 08:28:57,930 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [Audit 2016, Audit 2016, Audit 2016, Audit 2017, Audit 2017, Audit 2017, Bar 2015, Bar 2015, Bar 2017, Foo 2013, Foo 2014, Foo 2015, Foo 2015, Foo 2015, Foo 2016, Foo 2017, IT Review 2017, IT Review 2017, IT Review 2017]
+2017-11-15 08:29:09,782 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:29:18,431 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [3000, 2012, 2012, 2012, 2002, 2002, 1025, 1024, 1022, 1021, 1013, 1013, 1013, 1002, 1002, 1002, 1001, 1001, 1001]
+2017-11-15 08:32:20,459 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:32:29,294 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [3000, 2012, 2012, 2012, 2002, 2002, 1025, 1024, 1022, 1021, 1013, 1013, 1013, 1002, 1002, 1002, 1001, 1001, 1001]
+2017-11-15 08:45:26,077 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:45:34,585 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [3000, 2012, 2012, 2012, 2002, 2002, 1025, 1024, 1022, 1021, 1013, 1013, 1013, 1002, 1002, 1002, 1001, 1001, 1001]
+2017-11-15 08:48:20,899 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:48:29,496 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [3000, 2012, 2012, 2012, 2002, 2002, 1025, 1024, 1022, 1021, 1013, 1013, 1013, 1002, 1002, 1002, 1001, 1001, 1001]
+2017-11-15 08:51:07,184 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:51:15,756 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [3000, 2012, 2012, 2012, 2002, 2002, 1025, 1024, 1022, 1021, 1013, 1013, 1013, 1002, 1002, 1002, 1001, 1001, 1001]
+2017-11-15 08:53:55,064 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-15 08:54:03,699 [main] INFO  (com.automation.test.IFRS_Dashboard:88:verify_that_Sorting_functionality_is_working_fine_for_column) - [3000, 2012, 2012, 2012, 2002, 2002, 1025, 1024, 1022, 1021, 1013, 1013, 1013, 1002, 1002, 1002, 1001, 1001, 1001]
+2017-11-16 01:46:02,520 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 01:47:06,981 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 01:48:37,969 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 01:51:26,733 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 01:53:13,970 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 01:57:30,561 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 01:59:16,318 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 02:04:56,726 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 02:08:37,260 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 02:09:33,484 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 02:09:34,157 [main] INFO  (com.automation.test.IFRS_Role_Screen:108:assign_role_for_unassigned_user) - User is already assigned to Manager role
+2017-11-16 02:10:46,185 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 02:12:13,113 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 02:17:18,579 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 02:19:30,738 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 02:52:48,573 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 03:18:17,066 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-16 03:19:50,144 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-22 04:10:16,827 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-22 04:10:21,005 [main] INFO  (com.automation.test.IFRS_Role_Screen:148:assign_role_for_unassigned_user) - User is already assigned to Manager role
+2017-11-22 05:13:52,869 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-22 05:14:37,918 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-22 05:18:02,652 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-22 05:18:10,004 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_unassigned_user) - User is already assigned to AuditBuppp role
+2017-11-22 05:18:49,017 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-22 05:18:49,523 [main] INFO  (com.automation.test.IFRS_Role_Screen:108:assign_role_for_unassigned_user) - User is already assigned to AuditBuppp role
+2017-11-22 05:19:24,462 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-22 05:19:31,930 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_unassigned_user) - User is already assigned to AuditAssociate role
+2017-11-27 05:09:39,292 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-27 05:09:46,815 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_unassigned_user) - User is already assigned to AuditAssociate role
+2017-11-27 05:11:22,862 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-27 05:11:30,231 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_unassigned_user) - User is already assigned to ActiveAssetManager role
+2017-11-30 05:03:53,848 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 05:06:03,400 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 05:07:24,775 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 05:09:09,557 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 05:11:15,188 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 05:11:15,712 [main] INFO  (com.automation.test.IFRS_Role_Screen:53:assign_role_for_unassigned_user) - User is already assigned to AuditManager role
+2017-11-30 05:12:04,241 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 05:13:07,268 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 05:14:41,253 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 05:16:09,940 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 05:16:13,183 [main] INFO  (com.automation.test.IFRS_Role_Screen:110:assign_role_for_unassigned_user) - User is already assigned to AuditAssociate role
+2017-11-30 05:17:16,732 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 05:18:21,518 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 05:18:28,899 [main] INFO  (com.automation.test.IFRS_Role_Screen:82:assign_role_for_unassigned_user) - User is already assigned to AuditManager role
+2017-11-30 06:11:37,824 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 06:11:41,257 [main] INFO  (com.automation.test.IFRS_Role_Screen:110:assign_role_for_unassigned_user) - User is already assigned to AuditManager role
+2017-11-30 06:15:05,263 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 06:15:13,596 [main] INFO  (com.automation.test.IFRS_Role_Screen:82:assign_role_for_unassigned_user) - User is already assigned to AuditManager role
+2017-11-30 06:18:18,281 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 06:23:40,356 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 06:23:48,392 [main] INFO  (com.automation.test.IFRS_Role_Screen:82:assign_role_for_unassigned_user) - User is already assigned to AuditManager role
+2017-11-30 06:40:17,216 [main] INFO  (com.automation.test.IFRS_Role_Screen:38:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-11-30 06:40:26,064 [main] INFO  (com.automation.test.IFRS_Role_Screen:147:assign_role_for_assigned_user) - User is already assigned to AuditManager role
+2017-12-05 07:40:59,522 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:41:09,487 [main] INFO  (com.automation.test.IFRS_Role_Screen:150:assign_role_for_assigned_user) - User is already assigned to AuditManager role
+2017-12-05 07:42:23,581 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:42:32,779 [main] INFO  (com.automation.test.IFRS_Role_Screen:150:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 07:43:23,440 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:43:24,112 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 07:43:34,418 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:43:34,996 [main] ERROR (com.automation.test.IFRS_Dashboard:271:capture_the_Workpaper_ID_from_URL) - 4
+2017-12-05 07:44:39,196 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:44:48,515 [main] INFO  (com.automation.test.IFRS_Role_Screen:150:assign_role_for_assigned_user) - User is already assigned to AuditManager role
+2017-12-05 07:45:35,408 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:46:26,019 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:46:26,676 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 07:46:37,121 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:48:11,279 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:48:11,967 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 07:48:22,375 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:48:25,057 [main] ERROR (com.automation.test.IFRS_Dashboard:271:capture_the_Workpaper_ID_from_URL) - 4
+2017-12-05 07:51:33,383 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:51:34,086 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 07:51:44,584 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:51:49,908 [main] ERROR (com.automation.test.IFRS_Dashboard:272:capture_the_Workpaper_ID_from_URL) - For input string: "#"
+2017-12-05 07:52:24,086 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:52:24,727 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 07:52:35,076 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:52:40,220 [main] ERROR (com.automation.test.IFRS_Dashboard:272:capture_the_Workpaper_ID_from_URL) - 5
+2017-12-05 07:53:30,177 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:53:30,833 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 07:53:41,208 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:53:47,130 [main] ERROR (com.automation.test.IFRS_Dashboard:272:capture_the_Workpaper_ID_from_URL) - 4
+2017-12-05 07:55:45,041 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:55:45,713 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 07:55:56,221 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 07:56:01,407 [main] ERROR (com.automation.test.IFRS_Dashboard:273:capture_the_Workpaper_ID_from_URL) - 3
+2017-12-05 08:00:33,054 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:00:33,620 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 08:00:43,731 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:00:48,942 [main] ERROR (com.automation.test.IFRS_Dashboard:273:capture_the_Workpaper_ID_from_URL) - For input string: "ifrs-qa.us.kworld.kpmg.com/#"
+2017-12-05 08:01:39,381 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:01:39,937 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 08:01:50,002 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:07:50,382 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:07:50,956 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 08:08:01,061 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:54:30,497 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:54:31,088 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 08:54:41,545 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:54:46,562 [main] ERROR (com.automation.test.IFRS_Dashboard:273:capture_the_Workpaper_ID_from_URL) - For input string: "#"
+2017-12-05 08:56:09,549 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:56:10,110 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 08:56:20,176 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:56:25,128 [main] ERROR (com.automation.test.IFRS_Dashboard:274:capture_the_Workpaper_ID_from_URL) - For input string: "#"
+2017-12-05 08:57:34,085 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:57:34,682 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 08:57:44,959 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:57:51,293 [main] ERROR (com.automation.test.IFRS_Dashboard:275:capture_the_Workpaper_ID_from_URL) - For input string: "#"
+2017-12-05 08:59:01,213 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:59:01,919 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 08:59:12,474 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 08:59:25,607 [main] ERROR (com.automation.test.IFRS_Dashboard:278:capture_the_Workpaper_ID_from_URL) - For input string: "#"
+2017-12-05 09:07:50,951 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 09:07:51,544 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 09:08:01,705 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 09:08:06,932 [main] ERROR (com.automation.test.IFRS_Dashboard:278:capture_the_Workpaper_ID_from_URL) - Unexpected error launching Internet Explorer. Protected Mode settings are not the same for all zones. Enable Protected Mode must be set to the same value (enabled or disabled) for all zones. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 571 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'US6367445QAX043', ip: '10.1.255.180', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+2017-12-05 09:11:24,426 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 09:11:25,114 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 09:11:35,730 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 09:11:41,125 [main] ERROR (com.automation.test.IFRS_Dashboard:280:capture_the_Workpaper_ID_from_URL) - Unexpected error launching Internet Explorer. Protected Mode settings are not the same for all zones. Enable Protected Mode must be set to the same value (enabled or disabled) for all zones. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 594 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'US6367445QAX043', ip: '10.1.255.180', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+2017-12-05 09:29:51,340 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 09:29:52,059 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 09:30:02,611 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 09:43:08,729 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 09:43:09,494 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 09:43:20,097 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 09:43:31,934 [main] ERROR (com.automation.test.IFRS_Dashboard:285:capture_the_Workpaper_ID_from_URL) - For input string: "#"
+2017-12-05 09:49:50,611 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 09:49:51,212 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 09:50:01,419 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 09:50:13,587 [main] ERROR (com.automation.test.IFRS_Dashboard:285:capture_the_Workpaper_ID_from_URL) - For input string: "#"
+2017-12-05 10:11:09,513 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 10:11:10,201 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 10:11:21,101 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 10:11:28,197 [main] ERROR (com.automation.test.IFRS_Dashboard:286:capture_the_Workpaper_ID_from_URL) - 1
+2017-12-05 10:13:53,061 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 10:13:53,748 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 10:14:04,293 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 10:25:04,377 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 10:25:05,142 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 10:25:15,633 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 10:25:22,697 [main] ERROR (com.automation.test.IFRS_Dashboard:286:capture_the_Workpaper_ID_from_URL) - 1
+2017-12-05 10:26:13,156 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 10:26:13,875 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-05 10:26:24,631 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-05 10:27:10,269 [main] ERROR (com.automation.test.IFRS_Dashboard:286:capture_the_Workpaper_ID_from_URL) - 1
+2017-12-06 04:16:41,826 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 04:16:42,867 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-06 04:16:54,260 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 04:30:33,941 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 04:30:34,772 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-06 04:30:46,698 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 04:59:23,996 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 04:59:24,558 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-06 04:59:34,824 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 05:25:29,345 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 05:25:29,957 [main] INFO  (com.automation.test.IFRS_Role_Screen:129:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-06 05:25:40,095 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 05:37:46,164 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 05:37:47,694 [main] INFO  (com.automation.test.IFRS_Role_Screen:134:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-06 05:37:57,973 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 05:39:35,199 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 05:39:36,741 [main] INFO  (com.automation.test.IFRS_Role_Screen:134:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-06 05:39:47,013 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 05:41:13,617 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 05:41:15,165 [main] INFO  (com.automation.test.IFRS_Role_Screen:134:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-06 05:41:25,414 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 07:33:52,402 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 07:33:53,967 [main] INFO  (com.automation.test.IFRS_Role_Screen:134:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-06 07:34:04,347 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 07:36:30,978 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 07:36:32,504 [main] INFO  (com.automation.test.IFRS_Role_Screen:134:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-06 07:36:42,709 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 07:36:49,925 [main] INFO  (com.automation.test.IFRS_Dashboard:102:verify_that_Sorting_functionality_is_working_fine_for_column) - [2002, 1023]
+2017-12-06 07:38:15,817 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 07:38:17,356 [main] INFO  (com.automation.test.IFRS_Role_Screen:134:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-06 07:38:27,690 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 07:46:06,120 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
+2017-12-06 07:46:07,644 [main] INFO  (com.automation.test.IFRS_Role_Screen:134:assign_role_for_assigned_user) - User is already assigned to AuditRegionalApprover role
+2017-12-06 07:46:17,894 [main] INFO  (com.automation.test.IFRS_Role_Screen:41:user_is_navigate_to_screen_of_IFRS) - Screen is displayed successfully
