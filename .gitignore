@@ -1,0 +1,10 @@
+
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml
+.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml
+.idea/libraries/Maven__com_google_guava_guava_19_0.xml
+*.xml
+IFRS_Automation.iml
